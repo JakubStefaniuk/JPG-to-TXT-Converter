@@ -13,7 +13,6 @@ import javax.imageio.ImageIO;
 
 /**
  *
- * @author Jakub Stefaniuk
  * JPG converter to txt, size will remain unchanged, for viewing high resolution
  * JPG files, smaller font size is advised
  * 
